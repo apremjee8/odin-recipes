@@ -1,0 +1,25 @@
+body {
+  font-family: "IBM Plex Sans";
+}
+
+h1,
+h2 {
+  font-family: "IBM Plex Serif";
+  font-weight: 500;
+  background-color: rgb(4, 109, 158);
+  color: white;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
